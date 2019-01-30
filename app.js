@@ -2,6 +2,8 @@ let pintacadena = (cadena)=>{
 	console.log(cadena)
 }
 
+let aquimascosas = null;
+
 let nuevacosa = () => {
 
 }
