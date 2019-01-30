@@ -6,4 +6,5 @@ let nuevacosa = () => {
 
 }
 
-pintacadena("Hola a todos)
+pintacadena("Hola a todos")
+
